@@ -1,3 +1,9 @@
+# -*-coding:utf-8 -*-
+# This is a simple web crawler, which is designed to collect java or <br>python developer job positions in the site jy.cueb.edu.cn 
+
+__author__  =   "myishh"
+__email__   =   "myishh[at]qq.com"
+
 import requests
 import time
 from bs4 import BeautifulSoup
