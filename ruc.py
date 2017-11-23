@@ -1,6 +1,9 @@
 # -*- coding:utf-8 -*-
 # This is a web crawler, which is used to collect job positions of java or python developer in the site of <br>rdjy.ruc.edu.cn(Renmin Univ of China)
 
+__author__  =   "myishh"
+__email__   =   "myishh[at]qq.com"
+
 import requests
 import time
 from bs4 import BeautifulSoup
